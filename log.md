@@ -9,14 +9,14 @@
 **Link to work:** Stone-Paper-ScissorGame: https://github.com/ShubhamPoriya/100-Days-of-Code-Challenge/blob/master/Stone-Paper-Scissor%20Game.py
                   Blog: https://shubhamporiyatech.blogspot.com/
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: August 18, 2020 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Today I learnt about datastructures and algorithm - binary search, selection sort, linked lists and arrays. I am also trying on making a game with pygame module - "Space Invaders". I also coded on hackerrank and codechef.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really struggle with remembering syntaxes and functions. Trying to learn pygame featurers. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: Space invaders game: https://github.com/ShubhamPoriya/Python-Projects/blob/master/Space%20Invaders%20Pygame
+
 
 
 ### Day 1: June 27, Monday
