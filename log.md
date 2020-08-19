@@ -19,12 +19,11 @@
 
 
 
-### Day 1: June 27, Monday
+### Day 2: August 19, 2020 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Today I learnt recursion, quick sort algorithm and hash tables and implemented it with code. Also made a progress on my Game.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Need to figure out text editor settings so that it runs smoothly. Also I am starting to develop more interest in python program development.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: Space invaders game: https://github.com/ShubhamPoriya/Python-Projects/blob/master/Space%20Invaders%20Pygame
+
