@@ -27,3 +27,13 @@
 
 **Link(s) to work**: Space invaders game: https://github.com/ShubhamPoriya/Python-Projects/blob/master/Space%20Invaders%20Pygame
 
+
+
+### Day 3: August 20, 2020 
+
+**Today's Progress**: Today I learnt Breadth First Search Algorithm, queue data structure and Djkistra's algorithm. I also made a progress on my game of space invaders. Tweaking with some game progam to learn new attributes. 
+
+**Thoughts** It hard to use a high level editor such as subline text editor for beginners and so I jumped to Pycharm editor which is robust and easy to use. Hopefully by tomorrow i will finish building my game.
+
+**Link(s) to work**: Space invaders game: https://github.com/ShubhamPoriya/Python-Projects/blob/master/Space%20Invaders%20Pygame
+
