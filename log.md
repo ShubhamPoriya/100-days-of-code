@@ -37,3 +37,13 @@
 
 **Link(s) to work**: Space invaders game: https://github.com/ShubhamPoriya/Python-Projects/blob/master/Space%20Invaders%20Pygame
 
+
+
+### Day 4: August 21, 2020 
+
+**Today's Progress**: I learnt greedy alogrithms and how to approximate NP problems with approximation algorithm. I als implemented it with code. My progress on game is almost near to completion. 
+
+**Thoughts** Coding everyday has helped to me think on more projects and remember useful algorithms and functions. Practicing code daily has made it a second nature in my routine. I have startedd to develop more interest in computer sciences. 
+
+**Link(s) to work**: Space invaders game: https://github.com/ShubhamPoriya/Python-Projects/blob/master/Space%20Invaders%20Pygame
+
