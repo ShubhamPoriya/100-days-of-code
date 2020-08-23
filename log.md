@@ -47,3 +47,12 @@
 
 **Link(s) to work**: Space invaders game: https://github.com/ShubhamPoriya/Python-Projects/blob/master/Space%20Invaders%20Pygame
 
+
+
+### Day 5: August 23, 2020 
+
+**Today's Progress**: I learnt dynamic programming and how can it be implemented in our programs. I also learnt how is K-nearest neighbor algorithm so simple and versatile. I am happy to finish my space invaders game. It is my first take on games and I learnt a lot. I have not created the game myself but i enjoyed the process of programming. Looking forward to make my own game. 
+
+**Thoughts** I have learnt so far that if we don't code daily, we will tend to forget the functions and methods if we are in a beginner phase. So coding everyday is a must thing.
+
+**Link(s) to work**: Space invaders game (Completed): https://github.com/ShubhamPoriya/Python-Projects/blob/master/Space%20Invaders%20Pygame
