@@ -56,3 +56,13 @@
 **Thoughts** I have learnt so far that if we don't code daily, we will tend to forget the functions and methods if we are in a beginner phase. So coding everyday is a must thing.
 
 **Link(s) to work**: Space invaders game (Completed): https://github.com/ShubhamPoriya/Python-Projects/blob/master/Space%20Invaders%20Pygame
+
+
+
+### Day 6: August 24, 2020 
+
+**Today's Progress**: Today I started my course on algoruthm and data structures on coursera. I have also started a new game to practice though not my own, I have taken up to get more practice and learn new concepts.  
+
+**Thoughts** The jounrey of self teaching programming is a tough path but its worth every drop of sweat. There have been tonnes of blockades on my journey but facing the challenges and finding the solution is what is have learnt so far. 
+
+**Link(s) to work**: Work in progress (Flappy Bird is hatching...)
