@@ -61,7 +61,7 @@
 
 ### Day 6: August 24, 2020 
 
-**Today's Progress**: Today I started my course on algoruthm and data structures on coursera. I have also started a new game to practice though not my own, I have taken up to get more practice and learn new concepts.  
+**Today's Progress**: Today I started my course on algorithm and data structures on coursera. I have also started a new game to practice though not my own, I have taken up to get more practice and learn new concepts.  
 
 **Thoughts** The jounrey of self teaching programming is a tough path but its worth every drop of sweat. There have been tonnes of blockades on my journey but facing the challenges and finding the solution is what is have learnt so far. 
 
@@ -71,10 +71,18 @@
 
 ### Day 7: August 25, 2020 
 
-**Today's Progress**: ### Day 6: August 24, 2020 
-
-**Today's Progress**: Today I started my course on algoruthm and data structures on coursera. I have also started a new game to practice though not my own, I have taken up to get more practice and learn new concepts.  
+**Today's Progress**: Today I started my course on algorithm and data structures on coursera. I have also started a new game to practice though not my own, I have taken up to get more practice and learn new concepts.  
 
 **Thoughts**: I have started to think with a more robust plan and mindset like a programmer. I want to practice more of programming and learn. I will be advancing my knowledge on alorithms with my coursera course.
+
+**Link(s) to work**: Work in progress (Flappy Bird is hatching...) 
+
+
+
+### Day 8: August 26, 2020 
+
+**Today's Progress**: I learnt the big-O notation and its significance, Euclidean algorithm in my coursera course. I also progressed on my game. By tomorrow I will be able to complete my second game. 
+
+**Thoughts**: There is lot to learn everyday. Being focused everyday has helped me to learn better and keep the momentum going. 
 
 **Link(s) to work**: Work in progress (Flappy Bird is hatching...) 
