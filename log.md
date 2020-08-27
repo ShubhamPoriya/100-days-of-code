@@ -86,3 +86,13 @@
 **Thoughts**: There is lot to learn everyday. Being focused everyday has helped me to learn better and keep the momentum going. 
 
 **Link(s) to work**: Work in progress (Flappy Bird is hatching...) 
+
+
+
+### Day 9: August 27, 2020 
+
+**Today's Progress**: Today I learnt to implement efficient algorithms for GCD and LCM problems as well as many different Fibonacci problems. My game development practice is currently a bit slow but will try finishing it in next 2 days.
+
+**Thoughts**: Finding a right algorithm for a particular problem makes a huge difference. Coding should be a habit not a hobby to become the master of it.
+
+**Link(s) to work**: Work in progress (Flappy Bird is hatching...) 
