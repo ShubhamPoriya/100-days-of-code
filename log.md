@@ -96,3 +96,14 @@
 **Thoughts**: Finding a right algorithm for a particular problem makes a huge difference. Coding should be a habit not a hobby to become the master of it.
 
 **Link(s) to work**: Work in progress (Flappy Bird is hatching...) 
+
+
+
+
+### Day 10: August 28, 2020 
+
+**Today's Progress**: Today i learnt about greedy algorithms and its implementation on tricky problems such as car-fueling problem, money-change problem, maximum-salary problem, etcetera. 
+
+**Thoughts**: Finding a right algorithm for a particular problem makes a huge difference. Coding should be a habit not a hobby to become the master of it.
+
+**Link(s) to work**: Work in progress (Flappy Bird is hatching...) 
