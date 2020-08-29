@@ -107,3 +107,14 @@
 **Thoughts**: Finding a right algorithm for a particular problem makes a huge difference. Coding should be a habit not a hobby to become the master of it.
 
 **Link(s) to work**: Work in progress (Flappy Bird is hatching...) 
+
+
+
+
+### Day 11: August 29, 2020 
+
+**Today's Progress**: Today was more of theory focused study rather than practical work. I learnt about Divide and Conquer algoeithms, the math and logic behind it and how to implement for different problems. 
+
+**Thoughts**: Finding a right algorithm for a particular problem makes a huge difference. Coding should be a habit not a hobby to become the master of it.
+
+**Link(s) to work**: Work in progress (Flappy Bird is hatching...) 
