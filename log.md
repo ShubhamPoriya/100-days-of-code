@@ -130,3 +130,13 @@
 
 **Link(s) to work**: Flappy Bird 1.0 : https://github.com/ShubhamPoriya/Python-Projects/blob/master/Flappy%20bird.py
 
+
+
+
+### Day 14: September 1, 2020 
+
+**Today's Progress**: I completed the divide and conquer algorithm section of my coursera course. I also started to research on my next project. I am thinking of building a workout scheduler or maybe a game. 
+
+**Thoughts**: Programming is like a deep blue ocean, the deeper you dive, more diversity you find. It is hard to keep up with updates in computer science field but I believe this field is one which brings out the best of you. 
+
+**Link(s) to work**: New project cooking...
