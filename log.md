@@ -118,3 +118,15 @@
 **Thoughts**: Finding a right algorithm for a particular problem makes a huge difference. Coding should be a habit not a hobby to become the master of it.
 
 **Link(s) to work**: Work in progress (Flappy Bird is hatching...) 
+
+
+
+
+### Day 12-13: August 30-31, 2020 
+
+**Today's Progress**: In two days I tried to solve divide and conquer problems on binary search, finding closest points, majority elements etcetera. Though I could only write the code for half of the above mentioned problems. it was worth spending hours on it. 
+
+**Thoughts**: Finding a right algorithm for a particular problem makes a huge difference. Coding should be a habit not a hobby to become the master of it. To learn code and master it one needs to learn algorithms and data structures thoroughly. 
+
+**Link(s) to work**: Flappy Bird 1.0 : https://github.com/ShubhamPoriya/Python-Projects/blob/master/Flappy%20bird.py
+
