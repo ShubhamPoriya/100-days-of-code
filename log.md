@@ -140,3 +140,26 @@
 **Thoughts**: Programming is like a deep blue ocean, the deeper you dive, more diversity you find. It is hard to keep up with updates in computer science field but I believe this field is one which brings out the best of you. 
 
 **Link(s) to work**: New project cooking...
+
+
+
+
+### Day 15-16-17: September 2-3-4, 2020 
+
+**Today's Progress**: I tried completing my dynamic programming assignment but was stuck badly. I need to go back and learn new algorithms in order to be better equipped with relevant tools.  
+
+**Thoughts**: It gets hard as we dive deeper into fundamentals of algorithms and data structures. I will not give up how hard it is. I am also planning to start a new project on workout scheduler app.Hopefully I will figure it out by this week. Will be taking 2 days off from coding due to health reasons but will come back strong !
+
+**Link(s) to work**: New project cooking...
+
+
+
+
+### Day 18: September 7, 2020 
+
+**Today's Progress**: Today I learnt about generics and binary search tree data structure. I am still stuck with my dynamic programming assignment. Hopefully by this week end will find the right solution for it. 
+
+**Thoughts**: It has been hard 2 weeks to cope with the coursera course and my weekly projects. But I am giving my best to finish my daily goals. This challenge is really challenging me to push my limits. 
+
+**Link(s) to work**: New project cooking...
+
