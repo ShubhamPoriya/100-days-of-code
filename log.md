@@ -163,3 +163,13 @@
 
 **Link(s) to work**: New project cooking...
 
+
+
+
+### Day 19-20: September 8-9, 2020 
+
+**Today's Progress**: Finished my algorithm toolbox course on coursera. Also practiced programming challenges from Hacker Rank. I learnt a lot by solving coding challenges. Also the course i took has added to my knowledge and skills.
+
+**Thoughts**: Solving coding challenges has helped me a lot. I try to solve as much problems as i can everyday. 
+
+**Link(s) to work**: New project cooking...
