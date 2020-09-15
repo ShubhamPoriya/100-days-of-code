@@ -153,6 +153,7 @@
 **Link(s) to work**: New project cooking...
 
 
+### Break (2 Days)
 
 
 ### Day 18: September 7, 2020 
@@ -173,3 +174,37 @@
 **Thoughts**: Solving coding challenges has helped me a lot. I try to solve as much problems as i can everyday. 
 
 **Link(s) to work**: New project cooking...
+
+
+
+
+### Day 20-21: September 10-11, 2020 
+
+**Today's Progress**: I solved hackerrank challenges as much as possible and also completed part of week 1 of my new datastructures course on Coursera. I have also started my new project on workout management webapp. I am trying to manage my learning as hard as i can.
+
+**Thoughts**: I think i seriously need a good mentor now eho can guide me in a right direction. I need to communicate with more like minded people.
+
+**Link(s) to work**: Workout Manager Web App: Coming soon...
+
+
+### Break !!! (2 Days)
+
+
+### Day 22: September 14, 2020 
+
+**Today's Progress**: I took two days of break from coding. Though I was not totally isolated from coding on those two days but needed some rest. I coded more than 10 questions on hackerank and also learnt about my new programming language learning challenge that is to learn C++.
+
+**Thoughts**: I have been coding continuously since last week and solving numerous challenges. The only thing I have learnt is never give up on problems. Think smart think efficiently.
+
+**Link(s) to work**: Workout Manager Web App: Coming soon...
+
+
+
+
+### Day 23: September 15, 2020 
+
+**Today's Progress**: I have been coding on hackerank from last 3 days extensively. I also have to learn C++ along with #Python now. Today I also solved my data structures assignment but it was damn hard to get me through even single question. Will try my best to solve the assignment by this week.
+
+**Thoughts**: Learning from like minded and experienced people will help me gain momentum in right direction and will also help me stay motivated.
+
+**Link(s) to work**: Workout Manager Web App: Coming soon...
