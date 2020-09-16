@@ -208,3 +208,14 @@
 **Thoughts**: Learning from like minded and experienced people will help me gain momentum in right direction and will also help me stay motivated.
 
 **Link(s) to work**: Workout Manager Web App: Coming soon...
+
+
+
+
+### Day 24: September 16, 2020 
+
+**Today's Progress**: Today I learnt C++ basics and also solved hacker rank python problems. I will be starting a new project from tomorrow with my friend in order to learn different fields of software development.
+
+**Thoughts**: Sometimes I really feel lazy to even write a single line of code. But being persistent with work and habits gives great results.
+
+**Link(s) to work**: New app coming soon...
